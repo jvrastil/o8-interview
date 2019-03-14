@@ -8,7 +8,7 @@ Create a simple to-do list application (shown on home screen) according to follo
 * I can undo up to last 5 changes (use custom button)
 
 ### Technical criteria:
-* Fetch lists of to-dos from --- and store them in Vuex locally, manage the state of to-dos completely in Vuex, not in-component.
+* Fetch lists of to-dos from (http://my-json-server.typicode.com/martinbrodziansky/o8-interview/todos) and store them in Vuex locally, manage the state of to-dos completely in Vuex, not in-component.
 * Make sure you use separate components where appropriate, instead of creating one big component handling all of the logic. Reusability is key.
 * If there are no to-dos to be shown, display a message saying so; when a button is unclickable (e.g. you can't undo an action of it is futher than 5 away), make it visually clear.
 * Create a custom button for the purposes of the application, that you can display both with plain text and with an icon. Use Vue Slots to achieve this. Show use of Vue events to communicate with parent components.
