@@ -1,0 +1,54 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "message": "Buy groceries.",
+      "complete": false
+    },
+    {
+      "id": 2,
+      "message": "Go to drug store.",
+      "complete": false
+    },
+    {
+      "id": 3,
+      "message": "Buy new socks.",
+      "complete": true
+    },
+    {
+      "id": 4,
+      "message": "Go to cinema with Josh.",
+      "complete": false
+    },
+    {
+      "id": 5,
+      "message": "Clean up kitchen.",
+      "complete": false
+    },
+    {
+      "id": 6,
+      "message": "Cook dinner on Saturday.",
+      "complete": false
+    },
+    {
+      "id": 7,
+      "message": "Save the world.",
+      "complete": false
+    },
+    {
+      "id": 8,
+      "message": "Finish reading a book.",
+      "complete": true
+    },
+    {
+      "id": 9,
+      "message": "Workout.",
+      "complete": false
+    },
+    {
+      "id": 10,
+      "message": "Organize personal paperwork.",
+      "complete": false
+    }
+  ]
+}
